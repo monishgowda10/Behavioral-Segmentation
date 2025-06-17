@@ -1,3 +1,5 @@
+## Behavioral-Segmentation
+
  Creating a comprehensive README file with relevant tags is crucial for conveying the purpose and functionality of your GitHub repository. Here's a suggested set of tags and a structured README template for your project. 
 
 ### Suggested GitHub Tags:
