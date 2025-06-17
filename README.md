@@ -1,6 +1,6 @@
 ## Behavioral-Segmentation
 
- Creating a comprehensive README file with relevant tags is crucial for conveying the purpose and functionality of your GitHub repository. Here's a suggested set of tags and a structured README template for your project. 
+Creating a comprehensive README file with relevant tags is crucial for conveying the purpose and functionality of your GitHub repository. Here's a suggested set of tags and a structured README template for your project. 
 
 ### Suggested GitHub Tags:
 1. `Python`
@@ -62,11 +62,6 @@ The aim of this project is to analyze and segment customer behavior in a retail 
 - The analysis provides insights into revenue contribution and purchase patterns across different segments.
 
 ![Segment Distribution](link-to-segment-distribution-image)
-
-## Contributing
-Contributions are welcome! Please create a pull request or report issues.
-
-
 
 ### Additional Tips:
 - Ensure the `requirements.txt` file includes all necessary packages and dependencies.
